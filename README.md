@@ -15,8 +15,8 @@ Resultado gerado pelo modo imagem:
 
 Vídeos da aplicação rodando:
 
-- [Demonstração com webcam](assets/demo/webcam-demo.webm)
-- [Demonstração com imagem do computador](assets/demo/image-mode-demo.webm)
+- [Demonstração com imagem do computador](assets/demo/webcam-demo.webm)
+- [Demonstração com webcam](assets/demo/image-mode-demo.webm)
 
 ## Problema Resolvido
 
