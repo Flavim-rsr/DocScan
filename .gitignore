@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+MANIFEST
+
+# Virtualenv
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VSCode
+.vscode/
+
+# Ferramentas locais
+.codex
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output (imagens geradas - opcional manter vazio)
+assets/output/*.jpg
+assets/output/*.png
+assets/output/*.bmp
+src/assets/output/*.jpg
+src/assets/output/*.png
+src/assets/output/*.bmp
+
+# Não ignorar os .gitkeep
+!assets/output/.gitkeep
+!assets/input/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Coverage / Test
+.coverage
+htmlcov/
+.pytest_cache/
