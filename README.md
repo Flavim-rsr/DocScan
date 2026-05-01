@@ -203,18 +203,3 @@ scan_gray_YYYYMMDD_HHMMSS.jpg
 - Se algum canto estiver coberto, o recorte pode ficar impreciso.
 - Ambientes muito escuros aumentam ruído e pioram a imagem final.
 
-## Roteiro Para Apresentação
-
-Sugestão para apresentar em 5 a 10 minutos:
-
-1. mostrar o problema: documento fotografado fica torto e pouco legível;
-2. executar `python src/main.py --webcam`;
-3. mostrar o contorno detectando o documento;
-4. salvar com a tecla `S`;
-5. abrir a pasta `assets/output/` e mostrar os arquivos gerados;
-6. executar o modo imagem com `python src/main.py --image assets/input/CNH.jpg`;
-7. explicar rapidamente as técnicas: escala de cinza, blur, threshold, morfologia, Canny, contornos, perspectiva e CLAHE.
-
-## Autoria
-
-Projeto desenvolvido individualmente para a disciplina de Computação Gráfica.
