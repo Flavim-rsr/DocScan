@@ -13,11 +13,6 @@ Resultado gerado pelo modo imagem:
 
 ![Resultado colorido e em preto e branco](assets/demo/results-preview.png)
 
-Vídeos da aplicação rodando:
-
-- [Demonstração com imagem do computador](assets/demo/webcam-demo.webm)
-- [Demonstração com webcam](assets/demo/image-mode-demo.webm)
-
 ## Problema Resolvido
 
 Nem sempre temos um scanner disponível. Ao fotografar um documento com celular ou webcam, é comum a imagem sair torta, com perspectiva inclinada, fundo aparecendo e iluminação irregular.
